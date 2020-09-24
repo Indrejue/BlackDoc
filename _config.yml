@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Antony's Portfolio
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+url:              https://github.com/indrejue
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
@@ -28,4 +28,4 @@ plugins:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://github.com/Indrejue
