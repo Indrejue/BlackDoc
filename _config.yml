@@ -7,7 +7,7 @@ title:            Antony's Portfolio
 tagline:          Black Theme for Jekyll
 description:      "A CPA with many varied experiences wanting to apply his technical and observational skills to the field of audit work"
 url:              https://github.com/indrejue
-baseurl:          /
+baseurl:          https://indrejue.github.io/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
